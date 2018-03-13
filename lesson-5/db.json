@@ -1,0 +1,29 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "price": 200,
+      "name": "Туалетная бумага 1 ",
+      "img": "favicon.png"
+    },
+    {
+      "id": 2,
+      "price": 200,
+      "name": "Туалетная бумага 2 ",
+      "img": "favicon.png"
+    },
+    {
+      "id": 3,
+      "price": 200,
+      "name": "Туалетная бумага 3 ",
+      "img": "favicon.png"
+    },
+    {
+      "id": 4,
+      "price": 200,
+      "name": "Туалетная бумага 4 ",
+      "img": "favicon.png"
+    }
+  ],
+  "cart": []
+}
