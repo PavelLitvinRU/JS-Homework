@@ -1,0 +1,36 @@
+.imgSlider {
+    border: 1px solid #dadada;
+    width: 1100px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+.imgSlider .carousel {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 200px;
+    overflow: hidden;
+    width: 100%;
+}
+
+.imgSlider .carousel li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: 150px;
+    width: 150px;
+    margin: 25px 25px 25px 0px;
+    background-color: gold;
+    float: left;
+}
+
+.imgSlider .carousel li:first-child {
+    margin-left: 25px;
+}
+
+.map {
+    display: table;
+    width: 1775px;
+}
